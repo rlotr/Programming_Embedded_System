@@ -22,9 +22,9 @@ Each project included in this repository is designed to be self-contained, repli
 - **Arancino Mignon SBC** (SAMD21-based)
 - **Arduino IDE**
 - **ESP-01 Wi-Fi Module (AT Command Mode)**
-- Sensors: LDR, DHT11, thermistor, ultrasonic
+- Sensors: LDR, DHT11, thermistor, ultrasonic ranging module
 - Actuators: LEDs, DC motors, servo motors, stepper motors
-- LCD 16x2 (parallel and I²C)
+- LCD 16x2
 - SD card module (SPI)
 - Python 3 (server-side examples)
 - Basic HTML/CSS for dashboard interfaces
