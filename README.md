@@ -52,4 +52,4 @@ You are free to use, modify, and distribute the code with proper attribution.
 
 For any questions or collaboration proposals:  
 📧 roberto.lotronto@gmail.com
-🔗 https://www.linkedin.com/in/roberto-lotronto-324ba4151
+🔗 https://www.linkedin.com/in/roberto-lotronto
